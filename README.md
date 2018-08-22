@@ -10,3 +10,5 @@ my css notes
 [Floating Elements](https://ethankclam.github.io/CSS/floating.html)
 
 [Padding of an Element](https://ethankclam.github.io/CSS/padding.html)
+
+[Background](https://ethankclam.github.io/CSS/bg.html)
