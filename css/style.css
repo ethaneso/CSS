@@ -1,0 +1,16 @@
+body {
+	color: blue;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	text-shadow: 3px 2px grey;
+}
+
+p {
+	text-align: justify;
+	text-indent: 50px;
+}
